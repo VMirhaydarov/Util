@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Util</string>
+    <string name="employees">Сотрудники</string>
+    <string name="delete">Удаление</string>
+    <string name="statistics">Статистика</string>
+    <string name="num_items">Количество записей: </string>
+    <string name="OK">OK</string>
+    <string name="Cancel">Отмена</string>
+    <string name="Add">Добавление</string>
+    <string name="name">Имя</string>
+    <string name="email">Почта</string>
+    <string name="phone">Телефон</string>
+</resources>
